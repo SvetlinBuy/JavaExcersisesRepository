@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_RectangleArea/01_RectangleArea.iml" filepath="$PROJECT_DIR$/../01_RectangleArea/01_RectangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_TriangleArea/02_TriangleArea.iml" filepath="$PROJECT_DIR$/../02_TriangleArea/02_TriangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_FormattingNumbers/03_FormattingNumbers.iml" filepath="$PROJECT_DIR$/../03_FormattingNumbers/03_FormattingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_CalculateExpression/04_CalculateExpression.iml" filepath="$PROJECT_DIR$/../04_CalculateExpression/04_CalculateExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_OddEvenPairs/05_OddEvenPairs.iml" filepath="$PROJECT_DIR$/../05_OddEvenPairs/05_OddEvenPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_HitTheTarget/06_HitTheTarget.iml" filepath="$PROJECT_DIR$/../06_HitTheTarget/06_HitTheTarget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_CharacterMultiplier/07_CharacterMultiplier.iml" filepath="$PROJECT_DIR$/../07_CharacterMultiplier/07_CharacterMultiplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_FirstOddOrEvenElements/08_FirstOddOrEvenElements.iml" filepath="$PROJECT_DIR$/../08_FirstOddOrEvenElements/08_FirstOddOrEvenElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_ByteParty/09_ByteParty.iml" filepath="$PROJECT_DIR$/../09_ByteParty/09_ByteParty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_Xbits/10_Xbits.iml" filepath="$PROJECT_DIR$/../10_Xbits/10_Xbits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroToJava.iml" filepath="$PROJECT_DIR$/IntroToJava.iml" />
+    </modules>
+  </component>
+</project>
