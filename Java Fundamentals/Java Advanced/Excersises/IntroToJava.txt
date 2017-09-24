@@ -1,0 +1,13 @@
+01.RectangleArea - 100/100
+02.TriangleArea - 100/100
+03.FormattingNumbers - 100/100
+04.CalculateExpression - 100/100
+05.OddEvenPairs - 100/100
+06.HitTheTarget - 100/100
+07.CharacterMultiplier - 100/100
+08.FirstOddOrEvenElements - 100/100
+09.ByteParty - 100/100
+10.Xbits - 100/100
+11.Game of Names - 0/100
+12.Vehicle Park- 0/100
+13.Blur Filter - 0/100
