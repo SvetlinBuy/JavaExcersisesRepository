@@ -10,4 +10,4 @@
 10.Xbits - 100/100
 11.Game of Names - 0/100
 12.Vehicle Park- 0/100
-13.Blur Filter - 0/100
+13.Blur Filter - 100/100
