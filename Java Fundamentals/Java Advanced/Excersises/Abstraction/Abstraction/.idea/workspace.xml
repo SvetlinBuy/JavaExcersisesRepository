@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java" afterPath="$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/5_MaximalSum/MaximalSum.class" afterPath="$PROJECT_DIR$/out/production/5_MaximalSum/MaximalSum.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,18 +18,30 @@
       <file leaf-file-name="SequenceinMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../6_SequenceinMatrix/src/SequenceinMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="204">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximalSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlusRemove.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../10_Plus-Remove/src/PlusRemove.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximalSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,15 +117,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="5_MaximalSum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="5_MaximalSum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
               <item name="10_Plus-Remove" type="462c0819:PsiDirectoryNode" />
@@ -348,7 +351,7 @@
       <workItem from="1506360761403" duration="630000" />
       <workItem from="1506361409655" duration="53000" />
       <workItem from="1506361515855" duration="10474000" />
-      <workItem from="1506372629986" duration="847000" />
+      <workItem from="1506372629986" duration="1752000" />
     </task>
     <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
       <created>1506362255305</created>
@@ -420,11 +423,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506373111009</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="05 solved 100/100">
+      <created>1506373487767</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1506373487767</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13206000" />
+    <option name="totallyTimeSpent" value="14111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -438,7 +448,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33123028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33123028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -474,7 +484,8 @@
     <MESSAGE value="update Matrix of Palindromes done 100/100 in Judge" />
     <MESSAGE value="04 2x2 Squares in Matrixx done 100/100" />
     <MESSAGE value="06 fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="06 fixed" />
+    <MESSAGE value="05 solved 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="05 solved 100/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -650,10 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../10_Plus-Remove/src/PlusRemove.java">
+    <entry file="file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -662,16 +673,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../6_SequenceinMatrix/src/SequenceinMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="204">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java">
+    <entry file="file://$PROJECT_DIR$/../10_Plus-Remove/src/PlusRemove.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

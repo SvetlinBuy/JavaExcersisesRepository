@@ -1,0 +1,12 @@
+1. Fill the Matrix			 - 100/100
+2. Matrix of Palindromes 	 - 100/100
+3. Diagonal Difference		 - 100/100
+4. 2x2 Squares in Matrix	 - 100/100
+5. Maximal Sum				 - 100/100
+6. Sequence in Matrix		 - 100/100
+7. Collect the Coins		 - 0/100
+8. Matrix shuffling			 - 0/100
+9. Terrorists Win!			 - 0/100
+10. Plus-Remove 			 - 100/100
+11. String Matrix Rotation	 - 0/100
+12. To the Stars!			 - 0/100
