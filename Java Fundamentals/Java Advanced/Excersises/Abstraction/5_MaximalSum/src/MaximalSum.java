@@ -28,29 +28,41 @@ public class MaximalSum {
 
         int[] sum = CalculateMaximalSum3of3Square(matrix);
 
+        int[][] matrix3 = new int[3][3];
+
+        fill3x3matrix(matrix, matrix3, sum);
+
 
         System.out.println("Sum = " + sum[0]);
-        printMatrix(matrix, sum[1], sum[2]);
+        printMatrix(matrix3);
+
+
+    }
+
+    private static void fill3x3matrix(int[][] matrix, int[][] matrix3, int[] sum) {
+
+        for (int i = 0; i < matrix3.length; i++) {
+
+
+            for (int j = 0; j < matrix3[0].length ; j++) {
+
+                matrix3[i][j] = matrix[i+sum[1]][j+sum[2]];
+
+            }
+        }
 
 
     }
 
 
-    private static void printMatrix(int[][] matrix, int startRow, int startColumn) {
+    private static void printMatrix(int[][] matrix) {
 
 
-        for (int i = startRow; i < matrix.length; i++) {
+        for (int i = 0; i < matrix.length; i++) {
 
 
-            if (i - startColumn == 3) {
-                break;
-            }
+            for (int j = 0; j < matrix[0].length; j++) {
 
-            for (int j = startColumn; j < matrix[0].length; j++) {
-
-                if (j - startColumn == 3) {
-                    continue;
-                }
                 System.out.print(matrix[i][j] + " ");
 
             }
