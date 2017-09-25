@@ -38,7 +38,23 @@ public class FilltheMatrix {
 
     private static void FillMatrixPatternB(int[][] matrix, int matrixSize) {
 
+        int startNumb = 1;
+        for (int i = 0; i < matrix.length; i++) {
 
+            if (i % 2 == 0 ){
+                for (int j = 0; j < matrix[0].length; j++) {
+
+                    matrix[j][i] += startNumb;
+                    startNumb++;
+                }
+            } else {
+                for (int k = matrix[0].length -1; k >= 0  ; k--) {
+                    matrix[k][i] += startNumb;
+                    startNumb++;
+                }
+            }
+
+        }
     }
 
     private static void FillMatrixPatternA(int[][] matrix, int matrixSize) {
