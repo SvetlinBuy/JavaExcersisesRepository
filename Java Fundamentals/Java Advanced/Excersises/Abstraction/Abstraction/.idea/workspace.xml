@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java" afterPath="$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,19 +18,31 @@
       <file leaf-file-name="MatrixofPalindromes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../2_MatrixofPalindromes/src/MatrixofPalindromes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiagonalDifference.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java">
+      <file leaf-file-name="SquaresinMatrix2x2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../4_2x2SquaresinMatrix/src/SquaresinMatrix2x2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="62" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="62" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximalSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,8 +68,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Abstraction.java" />
-        <option value="$PROJECT_DIR$/../4_2x2SquaresinMatrix/src/SquaresinMatrix2x2.java" />
-        <option value="$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java" />
         <option value="$PROJECT_DIR$/../6_SequenceinMatrix/src/SequenceinMatrix.java" />
         <option value="$PROJECT_DIR$/../7_CollecttheCoins/src/CollecttheCoins.java" />
         <option value="$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java" />
@@ -65,8 +76,10 @@
         <option value="$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java" />
         <option value="$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java" />
         <option value="$PROJECT_DIR$/../01_FilltheMatrix/src/FilltheMatrix.java" />
-        <option value="$PROJECT_DIR$/../2_MatrixofPalindromes/src/MatrixofPalindromes.java" />
         <option value="$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java" />
+        <option value="$PROJECT_DIR$/../4_2x2SquaresinMatrix/src/SquaresinMatrix2x2.java" />
+        <option value="$PROJECT_DIR$/../2_MatrixofPalindromes/src/MatrixofPalindromes.java" />
+        <option value="$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java" />
       </list>
     </option>
   </component>
@@ -106,20 +119,11 @@
           <expand>
             <path>
               <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2_MatrixofPalindromes" type="462c0819:PsiDirectoryNode" />
+              <item name="5_MaximalSum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2_MatrixofPalindromes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_DiagonalDifference" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_DiagonalDifference" type="462c0819:PsiDirectoryNode" />
+              <item name="5_MaximalSum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiagonalDifference">
+  <component name="RunManager" selected="Application.MaximalSum">
     <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DiagonalDifference" />
@@ -204,6 +208,34 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="2_MatrixofPalindromes" />
+      <envs />
+    </configuration>
+    <configuration name="MaximalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MaximalSum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="5_MaximalSum" />
+      <envs />
+    </configuration>
+    <configuration name="SquaresinMatrix2x2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SquaresinMatrix2x2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="4_2x2SquaresinMatrix" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -286,16 +318,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.FilltheMatrix" />
       <item index="1" class="java.lang.String" itemvalue="Application.MatrixofPalindromes" />
       <item index="2" class="java.lang.String" itemvalue="Application.DiagonalDifference" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SquaresinMatrix2x2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaximalSum" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.DiagonalDifference" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MatrixofPalindromes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FilltheMatrix" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MaximalSum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SquaresinMatrix2x2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DiagonalDifference" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MatrixofPalindromes" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FilltheMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +351,7 @@
       <workItem from="1506359409405" duration="1202000" />
       <workItem from="1506360761403" duration="630000" />
       <workItem from="1506361409655" duration="53000" />
-      <workItem from="1506361515855" duration="5823000" />
+      <workItem from="1506361515855" duration="10359000" />
     </task>
     <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
       <created>1506362255305</created>
@@ -366,11 +402,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506367325947</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="04 2x2 Squares in Matrixx done 100/100">
+      <created>1506369700689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1506369700689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7708000" />
+    <option name="totallyTimeSpent" value="12244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -418,19 +461,20 @@
     <MESSAGE value="Pattern B ready" />
     <MESSAGE value="update" />
     <MESSAGE value="update Matrix of Palindromes done 100/100 in Judge" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Matrix of Palindromes done 100/100 in Judge" />
+    <MESSAGE value="04 2x2 Squares in Matrixx done 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="04 2x2 Squares in Matrixx done 100/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../2_MatrixofPalindromes/src/MatrixofPalindromes.java</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java</url>
+          <line>41</line>
           <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -489,20 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../4_2x2SquaresinMatrix/src/SquaresinMatrix2x2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -571,19 +601,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../4_2x2SquaresinMatrix/src/SquaresinMatrix2x2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../2_MatrixofPalindromes/src/MatrixofPalindromes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="-239">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../5_MaximalSum/src/MaximalSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -639,7 +687,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>01_FilltheMatrix</last-edited>
+          <last-edited>4_2x2SquaresinMatrix</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
