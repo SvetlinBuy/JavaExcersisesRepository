@@ -13,9 +13,9 @@ public class FilltheMatrix {
         int[][] matrix = new int[matrixSize][matrixSize];
 
         if (matrixPattern.equals("A")) {
-            FillMatrixPatternA(matrix, matrixSize);
+            FillMatrixPatternA(matrix);
         } else if (matrixPattern.equals("B")) {
-            FillMatrixPatternB(matrix, matrixSize);
+            FillMatrixPatternB(matrix);
         }
 
         printMatrix(matrix);
@@ -36,7 +36,7 @@ public class FilltheMatrix {
 
     }
 
-    private static void FillMatrixPatternB(int[][] matrix, int matrixSize) {
+    private static void FillMatrixPatternB(int[][] matrix) {
 
         int startNumb = 1;
         for (int i = 0; i < matrix.length; i++) {
@@ -57,7 +57,7 @@ public class FilltheMatrix {
         }
     }
 
-    private static void FillMatrixPatternA(int[][] matrix, int matrixSize) {
+    private static void FillMatrixPatternA(int[][] matrix) {
 
 
         int startNumb = 1;
