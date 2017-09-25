@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java" afterPath="$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="DiagonalDifference.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -316,7 +315,7 @@
       <workItem from="1506359409405" duration="1202000" />
       <workItem from="1506360761403" duration="630000" />
       <workItem from="1506361409655" duration="53000" />
-      <workItem from="1506361515855" duration="5803000" />
+      <workItem from="1506361515855" duration="5823000" />
     </task>
     <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
       <created>1506362255305</created>
@@ -360,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506366519699</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update Matrix of Palindromes done 100/100 in Judge">
+      <created>1506367325947</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1506367325947</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7688000" />
+    <option name="totallyTimeSpent" value="7708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -575,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
