@@ -6,8 +6,10 @@ public class FilltheMatrix {
 
         Scanner input = new Scanner(System.in);
 
-        int matrixSize = Integer.parseInt(input.nextLine());
-        String matrixPattern = input.nextLine();
+        String[] initalInput = input.nextLine().split(", ");
+
+        int matrixSize = Integer.parseInt(initalInput[0]);
+        String matrixPattern = initalInput[1];
         int[][] matrix = new int[matrixSize][matrixSize];
 
         if (matrixPattern.equals("A")) {

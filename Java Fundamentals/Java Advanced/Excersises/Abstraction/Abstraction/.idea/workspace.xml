@@ -240,12 +240,20 @@
       <workItem from="1506359409405" duration="1202000" />
       <workItem from="1506360761403" duration="630000" />
       <workItem from="1506361409655" duration="53000" />
-      <workItem from="1506361515855" duration="694000" />
+      <workItem from="1506361515855" duration="890000" />
     </task>
+    <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
+      <created>1506362255305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506362255306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2579000" />
+    <option name="totallyTimeSpent" value="2775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -284,6 +292,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding the body for hte Fill the Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the body for hte Fill the Matrix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
