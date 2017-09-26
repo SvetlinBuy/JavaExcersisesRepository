@@ -34,7 +34,8 @@ public class Matrixshuffling {
 
             String[] command = commands.split(" ");
 
-            if (command[0].equals("swap")) {
+            if (command[0].equals("swap") && command
+                    .length == 5 ) {
 
                 int row1 = Integer.parseInt(command[1]);
                 int col1 = Integer.parseInt(command[2]);

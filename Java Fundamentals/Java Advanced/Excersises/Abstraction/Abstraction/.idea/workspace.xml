@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../7_CollecttheCoins/src/CollecttheCoins.java" afterPath="$PROJECT_DIR$/../7_CollecttheCoins/src/CollecttheCoins.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java" afterPath="$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -19,8 +18,8 @@
       <file leaf-file-name="Matrixshuffling.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -360,7 +359,7 @@
       <workItem from="1506372629986" duration="1752000" />
       <workItem from="1506374768500" duration="385000" />
       <workItem from="1506379054396" duration="458000" />
-      <workItem from="1506420499943" duration="1817000" />
+      <workItem from="1506420499943" duration="2102000" />
     </task>
     <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
       <created>1506362255305</created>
@@ -439,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506373487767</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="08 80/100 (runtime error)">
+      <created>1506422348375</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1506422348375</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16771000" />
+    <option name="totallyTimeSpent" value="17056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -494,7 +500,8 @@
     <MESSAGE value="04 2x2 Squares in Matrixx done 100/100" />
     <MESSAGE value="06 fixed" />
     <MESSAGE value="05 solved 100/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="05 solved 100/100" />
+    <MESSAGE value="08 80/100 (runtime error)" />
+    <option name="LAST_COMMIT_MESSAGE" value="08 80/100 (runtime error)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,7 +514,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java</url>
-          <line>50</line>
+          <line>51</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
@@ -786,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
           <folding />
         </state>
       </provider>
