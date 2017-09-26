@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java" afterPath="$PROJECT_DIR$/../8_Matrixshuffling/src/Matrixshuffling.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Abstraction.txt" afterPath="$PROJECT_DIR$/../../Abstraction.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -359,7 +359,7 @@
       <workItem from="1506372629986" duration="1752000" />
       <workItem from="1506374768500" duration="385000" />
       <workItem from="1506379054396" duration="458000" />
-      <workItem from="1506420499943" duration="2102000" />
+      <workItem from="1506420499943" duration="2138000" />
     </task>
     <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
       <created>1506362255305</created>
@@ -445,11 +445,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506422348375</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="08 100/100 fixed">
+      <created>1506422614863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1506422614863</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17056000" />
+    <option name="totallyTimeSpent" value="17092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -501,7 +508,8 @@
     <MESSAGE value="06 fixed" />
     <MESSAGE value="05 solved 100/100" />
     <MESSAGE value="08 80/100 (runtime error)" />
-    <option name="LAST_COMMIT_MESSAGE" value="08 80/100 (runtime error)" />
+    <MESSAGE value="08 100/100 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="08 100/100 fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
