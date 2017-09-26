@@ -2,7 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../03_FormattingNumbers/src/FormattingNumbers.java" line="25" />
-    <bookmark url="file://$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java" line="48" />
+    <bookmark url="file://$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java" line="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c5dd770-fb51-4417-8c2a-e4caad0dbaec" name="Default" comment="" />
@@ -26,11 +26,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="FirstOddOrEvenElements.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+=======
       <file leaf-file-name="GameofNames.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../11_GameofNames/src/GameofNames.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
               <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,7 +46,15 @@
           </provider>
         </entry>
       </file>
+<<<<<<< .mine
       <file leaf-file-name="VehiclePark.java" pinned="false" current-in-tab="false">
+
+
+=======
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="VehiclePark.java" pinned="false" current-in-tab="true">
+>>>>>>> .theirs
         <entry file="file://$PROJECT_DIR$/../12_Vehicle Park/src/VehiclePark.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="850">
@@ -50,6 +66,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< .mine
       <file leaf-file-name="BlurFilter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../13_BlurFilter/src/BlurFilter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,6 +77,18 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -84,14 +113,20 @@
         <option value="$PROJECT_DIR$/../04_CalculateExpression/src/CalculateExpression.java" />
         <option value="$PROJECT_DIR$/../05_OddEvenPairs/src/OddEvenPairs.java" />
         <option value="$PROJECT_DIR$/../07_CharacterMultiplier/src/CharacterMultiplier.java" />
-        <option value="$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java" />
         <option value="$PROJECT_DIR$/../09_ByteParty/src/ByteParty.java" />
         <option value="$PROJECT_DIR$/../02_TriangleArea/src/TriangleArea.java" />
         <option value="$PROJECT_DIR$/../06_HitTheTarget/src/HitTheTarget.java" />
         <option value="$PROJECT_DIR$/../10_Xbits/src/Xbits.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java" />
+=======
         <option value="$PROJECT_DIR$/../11_GameofNames/src/GameofNames.java" />
         <option value="$PROJECT_DIR$/../12_Vehicle Park/src/VehiclePark.java" />
+<<<<<<< .mine
         <option value="$PROJECT_DIR$/../13_BlurFilter/src/BlurFilter.java" />
+=======
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
+>>>>>>> .theirs
       </list>
     </option>
   </component>
@@ -122,20 +157,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
       <pane id="AndroidView" />
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavaAdvancedExcersises" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< .mine
               <item name="13_BlurFilter" type="462c0819:PsiDirectoryNode" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+<<<<<<< HEAD
+              <item name="08_FirstOddOrEvenElements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAdvancedExcersises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08_FirstOddOrEvenElements" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAdvancedExcersises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_Xbits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAdvancedExcersises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Excersises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAdvancedExcersises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Excersises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="12_Vehicle Park" type="462c0819:PsiDirectoryNode" />
+>>>>>>> .theirs
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="PackagesPane" />
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -359,15 +449,43 @@
       <workItem from="1505987408493" duration="3123000" />
       <workItem from="1506012880023" duration="55000" />
       <workItem from="1506013029000" duration="124000" />
+<<<<<<< .mine
       <workItem from="1506126474098" duration="10593000" />
+
+
+
+=======
+<<<<<<< HEAD
+      <workItem from="1506285557358" duration="34000" />
+=======
+      <workItem from="1506126474098" duration="9770000" />
+>>>>>>> .theirs
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< .mine
     <option name="totallyTimeSpent" value="39530000" />
+
+
+
+
+
+
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="28971000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="38707000" />
+>>>>>>> .theirs
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -382,7 +500,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16488095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -541,16 +663,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java">
+    <entry file="file://$PROJECT_DIR$/../10_Xbits/src/Xbits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="33" column="47" lean-forward="false" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../10_Xbits/src/Xbits.java">
+    <entry file="file://$PROJECT_DIR$/../08_FirstOddOrEvenElements/src/FirstOddOrEvenElements.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+=======
         <state relative-caret-position="374">
           <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding />
@@ -572,6 +701,7 @@
         <state relative-caret-position="475">
           <caret line="260" column="12" lean-forward="false" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
           <folding />
+>>>>>>> 2a1911403e8adae9a4ea9d445f06be861c7b5210
         </state>
       </provider>
     </entry>

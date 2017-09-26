@@ -1,58 +1,42 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class FirstOddOrEvenElements {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
-        String[] arrStr = input.nextLine().split(" ");
-        String[] commands = input.nextLine().split(" ");
+        int[] arr = Arrays.stream(scan.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
-        int arrSize = Integer.parseInt(commands[1]);
+        String[] command = scan.nextLine().split(" ");
 
-        if (Integer.parseInt(commands[1]) > arrStr.length) {
-            arrSize= arrStr.length+1;
-        }
+        int countNum = Integer.parseInt(command[1]);
 
-        int[] arrInt = new int[arrSize];
-        int count = 0;
+        String type = command[2];
 
-        if (commands[2].equals("even")) {
+        if (type.equals("odd")) {
+            for (int i = 0; i < arr.length; i++) {
+                if (arr[i] % 2 != 0) {
+                    System.out.print(arr[i] + " ");
+                    countNum--;
 
-            for (int i = 0; i < arrStr.length; i++) {
-
-                if (count == arrSize) {
-                    break;
-                }
-                if (Integer.parseInt(arrStr[i]) % 2 == 0) {
-
-                    arrInt[count] = Integer.parseInt(arrStr[i]);
-                    count ++;
+                    if (countNum == 0){
+                        break;
+                    }
                 }
             }
-        } else if (commands[2].equals("odd")) {
+        } else if (type.equals("even")) {
+            for (int i = 0; i < arr.length; i++) {
+                if (arr[i] % 2 == 0) {
+                    System.out.print(arr[i] + " ");
+                    countNum--;
 
-            for (int i = 0; i < arrStr.length; i++) {
-
-                if (count == arrSize) {
-                    break;
-                }
-                if (Integer.parseInt(arrStr[i]) % 2 == 1) {
-
-                    arrInt[count] = Integer.parseInt(arrStr[i]);
-                    count ++;
+                    if (countNum == 0){
+                        break;
+                    }
                 }
             }
-        }
-
-
-        for (int i = 0; i < arrInt.length ; i++) {
-
-            if (i == count) {
-                break;
-            }
-            System.out.print(arrInt[i] + " ");
         }
 
     }
