@@ -1,3 +1,5 @@
+import java.io.Console;
+import java.lang.reflect.Array;
 import java.util.*;
 
 public class StringMatrixRotation {
@@ -30,7 +32,7 @@ public class StringMatrixRotation {
         }
 
 
-        matrixRotator(stringHolder,matrixColSize, degree);
+        matrixRotator(stringHolder, matrixColSize, degree);
 
 
     }
@@ -47,12 +49,20 @@ public class StringMatrixRotation {
         int rotateDegree = degree / 90 % 4;
 
 
-        switch (rotateDegree){
+        switch (rotateDegree) {
 
-            case 0: matrix = rotateby0degree(matrix); break;
-            case 1: matrix = rotateby90degree(matrix); break;
-            case 2: matrix = rotateby180degree(matrix); break;
-            case 3: matrix = rotateby270degree(matrix);break;
+            case 0:
+                matrix = rotateby0degree(matrix);
+                break;
+            case 1:
+                matrix = rotateby90degree(matrix);
+                break;
+            case 2:
+                matrix = rotateby180degree(matrix);
+                break;
+            case 3:
+                matrix = rotateby270degree(matrix);
+                break;
 
 
         }
@@ -62,18 +72,21 @@ public class StringMatrixRotation {
     }
 
     private static char[][] rotateby270degree(char[][] matrix) {
+
         char[][] rotedmatrix = new char[matrix[0].length][matrix.length];
 
-        for (int i = rotedmatrix.length -1; i >= 0 ; i--) {
+        for (int i = 0; i < rotedmatrix.length; i++) {
 
-            for (int j = rotedmatrix[0].length - 1; j >= 0 ; j--) {
+            for (int j = rotedmatrix[0].length - 1; j >= 0; j--) {
 
                 rotedmatrix[i][j] = matrix[j][i];
 
             }
-
         }
 
+        reverseMatrixCol(rotedmatrix);
+        revverseMatrixRow(rotedmatrix);
+        reverseMatrixCol(rotedmatrix);
 
         return rotedmatrix;
 
@@ -81,29 +94,33 @@ public class StringMatrixRotation {
 
     private static char[][] rotateby180degree(char[][] matrix) {
 
-        char[][] rotedmatrix = new char[matrix[0].length][matrix.length];
+        char[][] rotedmatrix = new char[matrix.length][matrix[0].length];
 
-        for (int i = 0; i <rotedmatrix.length ; i++) {
+        for (int i = 0 ; i < rotedmatrix.length; i++) {
 
-            for (int j = 0; j < rotedmatrix[0].length ; j++) {
+            for (int j = rotedmatrix[0].length -1 ; j >= 0; j--) {
 
-                rotedmatrix[i][j] = matrix[j][i];
+                rotedmatrix[i][j] = matrix[i][j];
 
             }
 
         }
 
+        revverseMatrixRow(rotedmatrix);
+
+        reverseMatrixCol(rotedmatrix);
 
         return rotedmatrix;
     }
+
 
     private static char[][] rotateby0degree(char[][] matrix) {
 
         char[][] rotedmatrix = new char[matrix.length][matrix[0].length];
 
-        for (int i = 0; i <rotedmatrix.length ; i++) {
+        for (int i = 0; i < rotedmatrix.length; i++) {
 
-            for (int j = 0; j < rotedmatrix[0].length ; j++) {
+            for (int j = 0; j < rotedmatrix[0].length; j++) {
 
                 rotedmatrix[i][j] = matrix[i][j];
 
@@ -119,19 +136,53 @@ public class StringMatrixRotation {
 
         char[][] rotedmatrix = new char[matrix[0].length][matrix.length];
 
-        for (int i = 0; i <rotedmatrix.length ; i++) {
+        for (int i = 0; i < rotedmatrix.length; i++) {
 
-            for (int j = 0; j < rotedmatrix[0].length ; j++) {
+            for (int j = rotedmatrix[0].length - 1; j >= 0; j--) {
 
                 rotedmatrix[i][j] = matrix[j][i];
 
             }
-
         }
+
+        reverseMatrixCol(rotedmatrix);
 
         return rotedmatrix;
 
     }
+
+    private static char[][] reverseMatrixCol(char[][] rotedmatrix) {
+
+        for (int k = 0; k < rotedmatrix.length; k++) {
+
+            char[] tempCharArr = rotedmatrix[k];
+
+
+            for (int i = 0; i < tempCharArr.length / 2; i++) {
+                char temp = tempCharArr[i];
+                tempCharArr[i] = tempCharArr[tempCharArr.length - i - 1];
+                tempCharArr[tempCharArr.length - i - 1] = temp;
+            }
+
+            rotedmatrix[k] = tempCharArr;
+
+        }
+
+        return  rotedmatrix;
+    }
+
+    private static char[][] revverseMatrixRow(char[][] rotedmatrix) {
+
+        for (int i = 0; i < rotedmatrix.length / 2; i++) {
+            char[] temp = rotedmatrix[i];
+            rotedmatrix[i] = rotedmatrix[rotedmatrix.length - i - 1];
+            rotedmatrix[rotedmatrix.length - i - 1] = temp;
+        }
+
+
+        return rotedmatrix;
+    }
+
 
     private static void matrixFiller(char[][] matrix, List<String> stringHolder) {
 
@@ -143,6 +194,8 @@ public class StringMatrixRotation {
 
                 if (word.length > j) {
                     matrix[i][j] = word[j];
+                } else {
+                    matrix[i][j] = ' ';
                 }
             }
 
