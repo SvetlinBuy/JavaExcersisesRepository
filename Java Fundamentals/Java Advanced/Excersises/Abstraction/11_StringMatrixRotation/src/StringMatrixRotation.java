@@ -112,8 +112,7 @@ public class StringMatrixRotation {
 
         return rotedmatrix;
     }
-
-
+    
     private static char[][] rotateby0degree(char[][] matrix) {
 
         char[][] rotedmatrix = new char[matrix.length][matrix[0].length];
