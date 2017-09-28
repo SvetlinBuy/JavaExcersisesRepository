@@ -1,4 +1,4 @@
-01.CountSubstringOccurrences       0/100
+01.CountSubstringOccurrences       100/100
 02.SumBigNumbers                   0/100
 03.TextFilter                      0/100
 04.UnicodeCharacters               0/100
