@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="11 100/100" />
+=======
+    <list default="true" id="c69ebf01-8eb4-480d-86aa-4443386ed856" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java" afterPath="$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +19,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="TotheStars.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+=======
+      <file leaf-file-name="StringMatrixRotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#revverseMatrixRow#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#matrixFiller#0;class#StringMatrixRotation#0" expanded="false" />
+                <element signature="method#printMatrix#0;class#StringMatrixRotation#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Abstraction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Abstraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TotheStars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
               <folding />
             </state>
           </provider>
@@ -64,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Abstraction.java" />
         <option value="$PROJECT_DIR$/../10_Plus-Remove/src/PlusRemove.java" />
         <option value="$PROJECT_DIR$/../01_FilltheMatrix/src/FilltheMatrix.java" />
         <option value="$PROJECT_DIR$/../3_DiagonalDifference/src/DiagonalDifference.java" />
@@ -77,6 +120,10 @@
         <option value="$PROJECT_DIR$/../9_TerroristsWin!/src/TerroristsWin.java" />
         <option value="$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java" />
         <option value="$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/Abstraction.java" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
       </list>
     </option>
   </component>
@@ -110,17 +157,29 @@
     <panes>
       <pane id="Scratches" />
       <pane id="AndroidView" />
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scratches" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="11_StringMatrixRotation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
               <item name="11_StringMatrixRotation" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Abstraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abstraction" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -128,6 +187,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,8 +412,16 @@
       <workItem from="1506420499943" duration="10796000" />
       <workItem from="1506435149578" duration="269000" />
       <workItem from="1506520187070" duration="51000" />
+<<<<<<< HEAD
       <workItem from="1506520531964" duration="5971000" />
       <workItem from="1506542348924" duration="847000" />
+=======
+      <workItem from="1506520531964" duration="6742000" />
+      <workItem from="1506610188709" duration="9000" />
+      <workItem from="1506610239750" duration="599000" />
+      <workItem from="1506610871619" duration="396000" />
+      <workItem from="1506611337534" duration="122000" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
     </task>
     <task id="LOCAL-00001" summary="adding the body for hte Fill the Matrix">
       <created>1506362255305</created>
@@ -453,25 +521,40 @@
       <option name="project" value="LOCAL" />
       <updated>1506435017364</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="11 100/100">
+      <created>1506526515938</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1506526515939</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="32888000" />
+=======
+    <option name="totallyTimeSpent" value="33938000" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7185104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33123028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -487,6 +570,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -510,7 +594,8 @@
     <MESSAGE value="08 80/100 (runtime error)" />
     <MESSAGE value="08 100/100 fixed" />
     <MESSAGE value="11 0/100 rotation methods left to be done" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 0/100 rotation methods left to be done" />
+    <MESSAGE value="11 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 100/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,7 +614,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java</url>
-          <line>118</line>
+          <line>115</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
@@ -554,13 +639,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#revverseMatrixRow#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#matrixFiller#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#printMatrix#0;class#StringMatrixRotation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#revverseMatrixRow#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#matrixFiller#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#printMatrix#0;class#StringMatrixRotation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#revverseMatrixRow#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#matrixFiller#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#printMatrix#0;class#StringMatrixRotation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#revverseMatrixRow#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#matrixFiller#0;class#StringMatrixRotation#0" expanded="false" />
+            <element signature="method#printMatrix#0;class#StringMatrixRotation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="method#rotateby270degree#0;class#StringMatrixRotation#0" expanded="false" />
+=======
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
             <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
@@ -576,10 +771,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="method#rotateby270degree#0;class#StringMatrixRotation#0" expanded="false" />
+=======
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
             <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
@@ -595,10 +792,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="method#rotateby270degree#0;class#StringMatrixRotation#0" expanded="false" />
+=======
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
             <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
@@ -769,13 +968,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../2_MatrixofPalindromes/src/FilltheMatrix.java" />
-    <entry file="file://$PROJECT_DIR$/src/Abstraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../01_FilltheMatrix/01_FilltheMatrix.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -860,21 +1052,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../12_TotheStars!/src/TotheStars.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+=======
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../11_StringMatrixRotation/src/StringMatrixRotation.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="423">
           <caret line="110" column="38" lean-forward="false" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
+=======
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#matrixRotator#0;class#StringMatrixRotation#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="method#rotateby270degree#0;class#StringMatrixRotation#0" expanded="false" />
+=======
+            <element signature="method#rotateby180degree#0;class#StringMatrixRotation#0" expanded="false" />
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
             <element signature="method#rotateby0degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#rotateby90degree#0;class#StringMatrixRotation#0" expanded="false" />
             <element signature="method#reverseMatrixCol#0;class#StringMatrixRotation#0" expanded="false" />
@@ -885,6 +1089,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/Abstraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> e9f9311d87b0fdbab6773ae8a9ae765992e09868
   </component>
   <component name="masterDetails">
     <states>
