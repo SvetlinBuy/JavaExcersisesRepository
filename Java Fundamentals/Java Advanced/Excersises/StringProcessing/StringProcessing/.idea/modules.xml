@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_CountSubstringOccurrences/01_CountSubstringOccurrences.iml" filepath="$PROJECT_DIR$/../01_CountSubstringOccurrences/01_CountSubstringOccurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProcessing.iml" filepath="$PROJECT_DIR$/StringProcessing.iml" />
+    </modules>
+  </component>
+</project>
