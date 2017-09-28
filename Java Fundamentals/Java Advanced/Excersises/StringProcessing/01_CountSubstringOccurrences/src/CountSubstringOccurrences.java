@@ -4,14 +4,13 @@ public class CountSubstringOccurrences {
 
     public static void main(String[] args) {
 
-        public static void main(String[] args) {
 
             Scanner scan = new Scanner(System.in);
             String text = scan.nextLine().toLowerCase();
             String pattern = scan.nextLine().toLowerCase();
 
             printResult(findOccurancies(text,pattern));
-        }
+    }
 
     private static int findOccurancies(String text, String pattern) {
         int count = 0;
