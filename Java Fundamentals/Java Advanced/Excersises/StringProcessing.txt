@@ -1,0 +1,16 @@
+01.CountSubstringOccurrences       0/100
+02.SumBigNumbers                   0/100
+03.TextFilter                      0/100
+04.UnicodeCharacters               0/100
+05.Palindromes                     0/100
+06.MagicExchangeableWords          0/100
+07.LettersChangeNumbers            0/100
+08.MelrahShake                     0/100
+09.MatchFullName                   0/100
+10.MatchPhoneNumber                0/100
+11.ReplaceaTag                     0/100
+12.ExtractEmails                   0/100
+13.SentenceExtractor               0/100
+14.SumofAllValues                  0/100
+15.ValidUsernames                  0/100
+16.ExtractHyperlinks               0/100
