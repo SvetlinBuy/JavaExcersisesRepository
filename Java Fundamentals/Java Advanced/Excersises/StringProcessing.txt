@@ -13,4 +13,4 @@
 13.SentenceExtractor               0/100
 14.SumofAllValues                  0/100
 15.ValidUsernames                  0/100
-16.ExtractHyperlinks               0/100
+16.ExtractHyperlinks               100/100
