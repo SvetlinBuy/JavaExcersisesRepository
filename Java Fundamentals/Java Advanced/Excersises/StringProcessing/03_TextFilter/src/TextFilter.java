@@ -24,7 +24,7 @@ public class TextFilter {
 
         for (int i = 0; i < bannedWords.length; i++) {
 
-            Pattern pattern = Pattern.compile(String.format("%s+",bannedWords[i]), Pattern.CASE_INSENSITIVE);
+            Pattern pattern = Pattern.compile(String.format("%s+",bannedWords[i]));
             Matcher matcher = pattern.matcher(textToFilter);
 
             String str = new String(new char[bannedWords[i].length()]).replace("\0", "*");
