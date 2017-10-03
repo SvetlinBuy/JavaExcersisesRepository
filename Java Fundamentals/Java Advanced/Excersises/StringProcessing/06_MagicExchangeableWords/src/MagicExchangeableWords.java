@@ -13,7 +13,7 @@ public class MagicExchangeableWords {
             System.out.println(ExchangableWords(input[1], input[0]));
         } else {
             System.out.println(ExchangableWords(input[0], input[1]));
-        };
+        }
     }
 
     private static boolean ExchangableWords(String s, String s1) {
