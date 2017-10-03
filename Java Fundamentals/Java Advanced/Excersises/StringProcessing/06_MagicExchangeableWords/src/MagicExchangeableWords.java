@@ -1,42 +1,46 @@
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.HashMap;
 
 public class MagicExchangeableWords {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
 
-        Scanner input = new Scanner(System.in);
-
-        String[] inputArray = input.nextLine().split(" ");
-
-        isExchangable(inputArray);
+        BufferedReader scan = new BufferedReader(new InputStreamReader(System.in));
+        String[] input = scan.readLine().split(" ");
+        if(input[0].length() > input[1].length()){
+            System.out.println(ExchangableWords(input[1], input[0]));
+        } else {
+            System.out.println(ExchangableWords(input[0], input[1]));
+        };
     }
 
-    private static void isExchangable(String[] inputArray) {
+    private static boolean ExchangableWords(String s, String s1) {
 
-        char[] firstWord = inputArray[0].toCharArray();
-        char[] secondWord = inputArray[1].toCharArray();
+        HashMap<Character, Character> store = new HashMap<>();
+        String word1 = "";
+        String word2 = "";
 
-        Map<Character, Character> exchangable = new LinkedHashMap<>();
-        boolean result = true;
-
-        if (firstWord.length == secondWord.length) {
-            for (int i = 0; i < firstWord.length; i++) {
-                if (exchangable.containsKey(firstWord[i])) {
-                    if (exchangable.get(firstWord[i]) != secondWord[i]) {
-                        result = false;
-                        break;
-                    }
-                } else {
-                    exchangable.put(firstWord[i], secondWord[i]);
-                }
+        for (int i = 0; i < s.length(); i++) {
+            if(!word1.contains(s.charAt(i) + "")){
+                word1 += s.charAt(i);
             }
-        } else {
-            result = false;
+            if (store.containsKey(s.charAt(i))) {
+                if (store.get(s.charAt(i)) != s1.charAt(i)) {
+                    return false;
+                }
+            } else {
+                store.put(s.charAt(i), s1.charAt(i));
+            }
         }
 
-        System.out.println(result);
+        for (int i = 0; i < s1.length(); i++) {
+            if(!word2.contains(s1.charAt(i) + "")){
+                word2 += s1.charAt(i);
+            }
+        }
 
+        return word1.length() == word2.length();
     }
 }
