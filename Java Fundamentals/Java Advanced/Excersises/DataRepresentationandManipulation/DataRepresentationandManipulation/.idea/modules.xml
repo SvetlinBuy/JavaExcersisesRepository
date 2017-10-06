@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_ReverseArray/01_ReverseArray.iml" filepath="$PROJECT_DIR$/../01_ReverseArray/01_ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_NestedLoopsToRecursion/02_NestedLoopsToRecursion.iml" filepath="$PROJECT_DIR$/../02_NestedLoopsToRecursion/02_NestedLoopsToRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_ImplementBinarySearchusingRecursion/03_ImplementBinarySearchusingRecursion.iml" filepath="$PROJECT_DIR$/../03_ImplementBinarySearchusingRecursion/03_ImplementBinarySearchusingRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_CombinationsCount/04_CombinationsCount.iml" filepath="$PROJECT_DIR$/../04_CombinationsCount/04_CombinationsCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_Chocolates/05_Chocolates.iml" filepath="$PROJECT_DIR$/../05_Chocolates/05_Chocolates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_OverlappingIntervals/06_OverlappingIntervals.iml" filepath="$PROJECT_DIR$/../06_OverlappingIntervals/06_OverlappingIntervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_FindtheMissingNumber/07_FindtheMissingNumber.iml" filepath="$PROJECT_DIR$/../07_FindtheMissingNumber/07_FindtheMissingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_MultiplyBigNumber/08_MultiplyBigNumber.iml" filepath="$PROJECT_DIR$/../08_MultiplyBigNumber/08_MultiplyBigNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_PhoneNumbers/09_PhoneNumbers.iml" filepath="$PROJECT_DIR$/../09_PhoneNumbers/09_PhoneNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_SemanticHTML/10_SemanticHTML.iml" filepath="$PROJECT_DIR$/../10_SemanticHTML/10_SemanticHTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataRepresentationandManipulation.iml" filepath="$PROJECT_DIR$/DataRepresentationandManipulation.iml" />
+    </modules>
+  </component>
+</project>
