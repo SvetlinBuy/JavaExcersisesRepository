@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="430b73b2-5365-4836-858b-8b0c97ae0549" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../06_OverlappingIntervals/src/OverlappingIntervals.java" afterPath="$PROJECT_DIR$/../06_OverlappingIntervals/src/OverlappingIntervals.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java" afterPath="$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OverlappingIntervals.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../06_OverlappingIntervals/src/OverlappingIntervals.java">
+      <file leaf-file-name="FindtheMissingNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java" />
         <option value="$PROJECT_DIR$/../08_MultiplyBigNumber/src/MultiplyBigNumber.java" />
         <option value="$PROJECT_DIR$/../09_PhoneNumbers/src/PhoneNumbers.java" />
         <option value="$PROJECT_DIR$/../10_SemanticHTML/src/SemanticHTML.java" />
@@ -57,6 +56,7 @@
         <option value="$PROJECT_DIR$/../04_CombinationsCount/src/CombinationsCount.java" />
         <option value="$PROJECT_DIR$/../05_Chocolates/src/Chocolates.java" />
         <option value="$PROJECT_DIR$/../06_OverlappingIntervals/src/OverlappingIntervals.java" />
+        <option value="$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java" />
       </list>
     </option>
   </component>
@@ -96,11 +96,11 @@
           <expand>
             <path>
               <item name="DataRepresentationandManipulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="06_OverlappingIntervals" type="462c0819:PsiDirectoryNode" />
+              <item name="07_FindtheMissingNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataRepresentationandManipulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="06_OverlappingIntervals" type="462c0819:PsiDirectoryNode" />
+              <item name="07_FindtheMissingNumber" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -129,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OverlappingIntervals">
+  <component name="RunManager" selected="Application.FindtheMissingNumber">
     <configuration name="Chocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Chocolates" />
@@ -158,6 +158,20 @@
       <module name="04_CombinationsCount" />
       <envs />
     </configuration>
+    <configuration name="FindtheMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="FindtheMissingNumber" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="07_FindtheMissingNumber" />
+      <envs />
+    </configuration>
     <configuration name="ImplementBinarySearchusingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ImplementBinarySearchusingRecursion" />
@@ -170,20 +184,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="03_ImplementBinarySearchusingRecursion" />
-      <envs />
-    </configuration>
-    <configuration name="NestedLoopsToRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="NestedLoopsToRecursion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="02_NestedLoopsToRecursion" />
       <envs />
     </configuration>
     <configuration name="OverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -281,19 +281,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NestedLoopsToRecursion" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ImplementBinarySearchusingRecursion" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CombinationsCount" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Chocolates" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OverlappingIntervals" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ImplementBinarySearchusingRecursion" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CombinationsCount" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Chocolates" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OverlappingIntervals" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FindtheMissingNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OverlappingIntervals" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Chocolates" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CombinationsCount" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ImplementBinarySearchusingRecursion" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NestedLoopsToRecursion" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FindtheMissingNumber" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OverlappingIntervals" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Chocolates" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CombinationsCount" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ImplementBinarySearchusingRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +310,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507240223138</updated>
-      <workItem from="1507240224409" duration="14909000" />
+      <workItem from="1507240224409" duration="17722000" />
     </task>
     <task id="LOCAL-00001" summary="adding Data Representation project">
       <created>1507240741334</created>
@@ -333,11 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507253576030</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="06 exam 100/100">
+      <created>1507255638898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507255638899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14909000" />
+    <option name="totallyTimeSpent" value="17722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -382,7 +389,8 @@
     <MESSAGE value="adding Data Representation project" />
     <MESSAGE value="01 exam 100/100" />
     <MESSAGE value="05 exam 100/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="05 exam 100/100" />
+    <MESSAGE value="06 exam 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="06 exam 100/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -399,20 +407,18 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../08_MultiplyBigNumber/src/MultiplyBigNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -483,8 +489,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../06_OverlappingIntervals/src/OverlappingIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../07_FindtheMissingNumber/src/FindtheMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
