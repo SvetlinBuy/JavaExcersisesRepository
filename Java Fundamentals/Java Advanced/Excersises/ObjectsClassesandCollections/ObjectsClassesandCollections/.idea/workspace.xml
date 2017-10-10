@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5cd3e0e-088c-4531-a4a1-d71f531c38d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java" afterPath="$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" afterPath="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,75 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InfixtoPostfix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../07_InfixtoPostfix/src/InfixtoPostfix.java">
+      <file leaf-file-name="HandsofCards.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="56" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EvaluateExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../08_EvaluateExpression/src/EvaluateExpression.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-              <folding>
-                <element signature="e#1765#1766#0" expanded="true" />
-                <element signature="e#1836#1837#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TheStockSpanProblem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../09_TheStockSpanProblem/src/TheStockSpanProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountSymbols.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../10_CountSymbols/src/CountSymbols.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-              <folding>
-                <element signature="method#orderLex#0;class#CountSymbols#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Phonebook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../11_Phonebook/src/Phonebook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="39" column="46" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AMinerTask.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="166">
+              <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" />
         <option value="$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java" />
         <option value="$PROJECT_DIR$/../15_LegendaryFarming/src/LegendaryFarming.java" />
         <option value="$PROJECT_DIR$/../16_DragonArmy/src/DragonArmy.java" />
@@ -124,6 +60,7 @@
         <option value="$PROJECT_DIR$/../10_CountSymbols/src/CountSymbols.java" />
         <option value="$PROJECT_DIR$/../11_Phonebook/src/Phonebook.java" />
         <option value="$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java" />
+        <option value="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" />
       </list>
     </option>
   </component>
@@ -181,11 +118,11 @@
           <expand>
             <path>
               <item name="ObjectsClassesandCollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12_AMinerTask" type="462c0819:PsiDirectoryNode" />
+              <item name="13_HandsofCards" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ObjectsClassesandCollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12_AMinerTask" type="462c0819:PsiDirectoryNode" />
+              <item name="13_HandsofCards" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -220,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AMinerTask">
+  <component name="RunManager" selected="Application.HandsofCards">
     <configuration name="AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="AMinerTask" />
@@ -249,9 +186,9 @@
       <module name="10_CountSymbols" />
       <envs />
     </configuration>
-    <configuration name="EvaluateExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HandsofCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="EvaluateExpression" />
+      <option name="MAIN_CLASS_NAME" value="HandsofCards" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -260,7 +197,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="08_EvaluateExpression" />
+      <module name="13_HandsofCards" />
       <envs />
     </configuration>
     <configuration name="Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -372,19 +309,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.EvaluateExpression" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TheStockSpanProblem" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CountSymbols" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Phonebook" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AMinerTask" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TheStockSpanProblem" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CountSymbols" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Phonebook" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AMinerTask" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HandsofCards" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AMinerTask" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Phonebook" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CountSymbols" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TheStockSpanProblem" />
-        <item index="4" class="java.lang.String" itemvalue="Application.EvaluateExpression" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HandsofCards" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AMinerTask" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Phonebook" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CountSymbols" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TheStockSpanProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +342,7 @@
       <workItem from="1507486543563" duration="4565000" />
       <workItem from="1507492982107" duration="28622000" />
       <workItem from="1507534794029" duration="5457000" />
-      <workItem from="1507579072093" duration="10141000" />
+      <workItem from="1507579072093" duration="13432000" />
     </task>
     <task id="LOCAL-00001" summary="a?">
       <created>1507472221361</created>
@@ -484,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507588485742</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="12 exam 100/100">
+      <created>1507589614853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1507589614853</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49561000" />
+    <option name="totallyTimeSpent" value="52852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -541,7 +485,8 @@
     <MESSAGE value="09 exam 60/100" />
     <MESSAGE value="10 exam 100/100" />
     <MESSAGE value="11 exam 100/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 exam 100/100" />
+    <MESSAGE value="12 exam 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="12 exam 100/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -575,10 +520,21 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="22" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((LinkedHashMap)playerscards).entrySet().toArray()[1]" custom="java.util.LinkedHashMap" />
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)playerscards).entrySet().toArray()[2]).getValue()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../07_InfixtoPostfix/src/InfixtoPostfix.java">
@@ -586,7 +542,7 @@
         <state relative-caret-position="901">
           <caret line="56" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -595,10 +551,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="e#1765#1766#0" expanded="true" />
-            <element signature="e#1836#1837#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -607,7 +560,7 @@
         <state relative-caret-position="867">
           <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -633,13 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -723,37 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../07_InfixtoPostfix/src/InfixtoPostfix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="56" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../08_EvaluateExpression/src/EvaluateExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="e#1765#1766#0" expanded="true" />
-            <element signature="e#1836#1837#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../09_TheStockSpanProblem/src/TheStockSpanProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/StringJoiner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-254">
@@ -770,12 +685,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../10_CountSymbols/src/CountSymbols.java">
+    <entry file="file://$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="-136">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="method#orderLex#0;class#CountSymbols#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -790,13 +705,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java">
+    <entry file="file://$PROJECT_DIR$/../10_CountSymbols/src/CountSymbols.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        <state relative-caret-position="102">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#orderLex#0;class#CountSymbols#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../09_TheStockSpanProblem/src/TheStockSpanProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="52" column="34" lean-forward="false" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../08_EvaluateExpression/src/EvaluateExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../07_InfixtoPostfix/src/InfixtoPostfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="56" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
