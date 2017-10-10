@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_BasicStackOperations/01_BasicStackOperations.iml" filepath="$PROJECT_DIR$/../01_BasicStackOperations/01_BasicStackOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_MaximumElement/02_MaximumElement.iml" filepath="$PROJECT_DIR$/../02_MaximumElement/02_MaximumElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_BasicQueueOperations/03_BasicQueueOperations.iml" filepath="$PROJECT_DIR$/../03_BasicQueueOperations/03_BasicQueueOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_TruckTour/04_TruckTour.iml" filepath="$PROJECT_DIR$/../04_TruckTour/04_TruckTour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_BalancedParentheses/05_BalancedParentheses.iml" filepath="$PROJECT_DIR$/../05_BalancedParentheses/05_BalancedParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_SimpleTextEditor/06_SimpleTextEditor.iml" filepath="$PROJECT_DIR$/../06_SimpleTextEditor/06_SimpleTextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_InfixtoPostfix/07_InfixtoPostfix.iml" filepath="$PROJECT_DIR$/../07_InfixtoPostfix/07_InfixtoPostfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_EvaluateExpression/08_EvaluateExpression.iml" filepath="$PROJECT_DIR$/../08_EvaluateExpression/08_EvaluateExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_TheStockSpanProblem/09_TheStockSpanProblem.iml" filepath="$PROJECT_DIR$/../09_TheStockSpanProblem/09_TheStockSpanProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_CountSymbols/10_CountSymbols.iml" filepath="$PROJECT_DIR$/../10_CountSymbols/10_CountSymbols.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11_Phonebook/11_Phonebook.iml" filepath="$PROJECT_DIR$/../11_Phonebook/11_Phonebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12_AMinerTask/12_AMinerTask.iml" filepath="$PROJECT_DIR$/../12_AMinerTask/12_AMinerTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13_HandsofCards/13_HandsofCards.iml" filepath="$PROJECT_DIR$/../13_HandsofCards/13_HandsofCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14_PopulationCounter/14_PopulationCounter.iml" filepath="$PROJECT_DIR$/../14_PopulationCounter/14_PopulationCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15_LegendaryFarming/15_LegendaryFarming.iml" filepath="$PROJECT_DIR$/../15_LegendaryFarming/15_LegendaryFarming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16_DragonArmy/16_DragonArmy.iml" filepath="$PROJECT_DIR$/../16_DragonArmy/16_DragonArmy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectsClassesandCollections.iml" filepath="$PROJECT_DIR$/ObjectsClassesandCollections.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,10 +1,11 @@
-01.Reverse Array
-02.Nested Loops To Recursion
-03.Implement Binary Search using Recursion
-04.Combinations Count
-05.Chocolates
-06.Overlapping Intervals
-07.Find the Missing Number
-08.Multiply Big Number
-09.Phone Numbers
-10.Semantic HTML
+01.Reverse Array                                  100/100
+02.Nested Loops To Recursion                      100/100         
+03.Implement Binary Search using Recursion        100/100
+04.Combinations Count                             100/100
+05.Chocolates                                     100/100
+06.Overlapping Intervals                          100/100
+07.Find the Missing Number                        80/100
+08.Multiply Big Number                            80/100
+09.Phone Numbers                                  87/100
+10.Semantic HTML                                  100/100
+                                            

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_CountSubstringOccurrences/01_CountSubstringOccurrences.iml" filepath="$PROJECT_DIR$/../01_CountSubstringOccurrences/01_CountSubstringOccurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_SumBigNumbers/02_SumBigNumbers.iml" filepath="$PROJECT_DIR$/../02_SumBigNumbers/02_SumBigNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_TextFilter/03_TextFilter.iml" filepath="$PROJECT_DIR$/../03_TextFilter/03_TextFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_UnicodeCharacters/04_UnicodeCharacters.iml" filepath="$PROJECT_DIR$/../04_UnicodeCharacters/04_UnicodeCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_Palindromes/05_Palindromes.iml" filepath="$PROJECT_DIR$/../05_Palindromes/05_Palindromes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_MagicExchangeableWords/06_MagicExchangeableWords.iml" filepath="$PROJECT_DIR$/../06_MagicExchangeableWords/06_MagicExchangeableWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_LettersChangeNumbers/07_LettersChangeNumbers.iml" filepath="$PROJECT_DIR$/../07_LettersChangeNumbers/07_LettersChangeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_MelrahShake/08_MelrahShake.iml" filepath="$PROJECT_DIR$/../08_MelrahShake/08_MelrahShake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_MatchFullName/09_MatchFullName.iml" filepath="$PROJECT_DIR$/../09_MatchFullName/09_MatchFullName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_MatchPhoneNumber/10_MatchPhoneNumber.iml" filepath="$PROJECT_DIR$/../10_MatchPhoneNumber/10_MatchPhoneNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11_ReplaceaTag/11_ReplaceaTag.iml" filepath="$PROJECT_DIR$/../11_ReplaceaTag/11_ReplaceaTag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12_ExtractEmails/12_ExtractEmails.iml" filepath="$PROJECT_DIR$/../12_ExtractEmails/12_ExtractEmails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13_SentenceExtractor/13_SentenceExtractor.iml" filepath="$PROJECT_DIR$/../13_SentenceExtractor/13_SentenceExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14_SumofAllValues/14_SumofAllValues.iml" filepath="$PROJECT_DIR$/../14_SumofAllValues/14_SumofAllValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15_ValidUsernames/15_ValidUsernames.iml" filepath="$PROJECT_DIR$/../15_ValidUsernames/15_ValidUsernames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16_ExtractHyperlinks/16_ExtractHyperlinks.iml" filepath="$PROJECT_DIR$/../16_ExtractHyperlinks/16_ExtractHyperlinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProcessing.iml" filepath="$PROJECT_DIR$/StringProcessing.iml" />
+    </modules>
+  </component>
+</project>
