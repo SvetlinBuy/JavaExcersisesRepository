@@ -64,8 +64,20 @@ public class HandsofCards {
 
         for (String card: existingHand) {
 
-            String power = card.split("")[0];
-            String multipler = card.split("")[1];
+            String[] splitted = card.split("");
+
+            String power = "";
+            String multipler = "";
+
+            if (splitted.length > 2) {
+
+                power = splitted[0] + splitted[1] +"";
+                multipler = splitted[2];
+            } else {
+                 power = splitted[0];
+                 multipler = splitted[1];
+            }
+
 
             int p = cardpower(power);
             int m = cardmultipler(multipler);
@@ -105,7 +117,5 @@ public class HandsofCards {
                 case 'A': return 14;
                 default: return Integer.parseInt(power);
             }
-
-
     }
 }

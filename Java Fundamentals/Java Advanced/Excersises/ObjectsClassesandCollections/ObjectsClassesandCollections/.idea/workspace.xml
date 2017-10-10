@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5cd3e0e-088c-4531-a4a1-d71f531c38d3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" afterPath="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java" afterPath="$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +19,18 @@
       <file leaf-file-name="HandsofCards.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+            <state relative-caret-position="224">
+              <caret line="118" column="13" lean-forward="true" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopulationCounter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java" />
         <option value="$PROJECT_DIR$/../15_LegendaryFarming/src/LegendaryFarming.java" />
         <option value="$PROJECT_DIR$/../16_DragonArmy/src/DragonArmy.java" />
         <option value="$PROJECT_DIR$/../01_BasicStackOperations/src/BasicStackOperations.java" />
@@ -60,6 +70,7 @@
         <option value="$PROJECT_DIR$/../10_CountSymbols/src/CountSymbols.java" />
         <option value="$PROJECT_DIR$/../11_Phonebook/src/Phonebook.java" />
         <option value="$PROJECT_DIR$/../12_AMinerTask/src/AMinerTask.java" />
+        <option value="$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java" />
         <option value="$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java" />
       </list>
     </option>
@@ -342,7 +353,7 @@
       <workItem from="1507486543563" duration="4565000" />
       <workItem from="1507492982107" duration="28622000" />
       <workItem from="1507534794029" duration="5457000" />
-      <workItem from="1507579072093" duration="13432000" />
+      <workItem from="1507579072093" duration="16039000" />
     </task>
     <task id="LOCAL-00001" summary="a?">
       <created>1507472221361</created>
@@ -428,11 +439,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507589614853</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="13 exam 66/100">
+      <created>1507593993673</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1507593993673</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52852000" />
+    <option name="totallyTimeSpent" value="55459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -486,7 +504,8 @@
     <MESSAGE value="10 exam 100/100" />
     <MESSAGE value="11 exam 100/100" />
     <MESSAGE value="12 exam 100/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 exam 100/100" />
+    <MESSAGE value="13 exam 66/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 exam 66/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -522,12 +541,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java</url>
-          <line>45</line>
+          <line>64</line>
           <properties />
-          <option name="timeStamp" value="21" />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -586,13 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -690,7 +702,7 @@
         <state relative-caret-position="-136">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -743,10 +755,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../14_PopulationCounter/src/PopulationCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../13_HandsofCards/src/HandsofCards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+        <state relative-caret-position="224">
+          <caret line="118" column="13" lean-forward="true" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -803,7 +823,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>09_TheStockSpanProblem</last-edited>
+          <last-edited>14_PopulationCounter</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
