@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_ConsumerPrint/01_ConsumerPrint.iml" filepath="$PROJECT_DIR$/../01_ConsumerPrint/01_ConsumerPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_KnightsofHonor/02_KnightsofHonor.iml" filepath="$PROJECT_DIR$/../02_KnightsofHonor/02_KnightsofHonor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_CustomMinFunction/03_CustomMinFunction.iml" filepath="$PROJECT_DIR$/../03_CustomMinFunction/03_CustomMinFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_FindEvensorOdds/04_FindEvensorOdds.iml" filepath="$PROJECT_DIR$/../04_FindEvensorOdds/04_FindEvensorOdds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_AppliedArithmetic/05_AppliedArithmetic.iml" filepath="$PROJECT_DIR$/../05_AppliedArithmetic/05_AppliedArithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_ReverseandExclude/06_ReverseandExclude.iml" filepath="$PROJECT_DIR$/../06_ReverseandExclude/06_ReverseandExclude.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_Predicatefornames/07_Predicatefornames.iml" filepath="$PROJECT_DIR$/../07_Predicatefornames/07_Predicatefornames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_Findthesmallestelement/08_Findthesmallestelement.iml" filepath="$PROJECT_DIR$/../08_Findthesmallestelement/08_Findthesmallestelement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_CustomComparator/09_CustomComparator.iml" filepath="$PROJECT_DIR$/../09_CustomComparator/09_CustomComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_ListofPredicates/10_ListofPredicates.iml" filepath="$PROJECT_DIR$/../10_ListofPredicates/10_ListofPredicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11_PredicateParty/11_PredicateParty.iml" filepath="$PROJECT_DIR$/../11_PredicateParty/11_PredicateParty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12_ThePartyReservationFilterModule/12_ThePartyReservationFilterModule.iml" filepath="$PROJECT_DIR$/../12_ThePartyReservationFilterModule/12_ThePartyReservationFilterModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13_InfernoIII/13_InfernoIII.iml" filepath="$PROJECT_DIR$/../13_InfernoIII/13_InfernoIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming.iml" />
+    </modules>
+  </component>
+</project>

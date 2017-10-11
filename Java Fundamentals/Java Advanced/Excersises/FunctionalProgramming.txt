@@ -1,0 +1,13 @@
+1.ConsumerPrint
+2.KnightsofHonor
+3.CustomMinFunction
+4.FindEvensorOdds
+5.AppliedArithmetic
+6.ReverseandExclude
+7.Predicatefornames
+8.Findthesmallestelement
+9.CustomComparator
+10.ListofPredicates
+11.PredicateParty!
+12.ThePartyReservationFilterModule
+13.InfernoIII
