@@ -26,9 +26,15 @@ public class AppliedArithmetic {
                     case "subtract":numbers[i]-=1; break;
                     case "print": print.accept(numbers[i]);break;
                 }
+
+            }
+            if(operations.equals("print")){
+                System.out.println();
+
             }
 
             operations = scanner.nextLine();
         }
+
     }
 }
