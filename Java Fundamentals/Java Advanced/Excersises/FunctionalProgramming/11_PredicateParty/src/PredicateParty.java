@@ -75,7 +75,7 @@ public class PredicateParty {
             System.out.println("Nobody is going to the party!");
         } else {
 
-            Collections.sort(listPeople);
+
 
             String s = String.join(", ", listPeople);
 
