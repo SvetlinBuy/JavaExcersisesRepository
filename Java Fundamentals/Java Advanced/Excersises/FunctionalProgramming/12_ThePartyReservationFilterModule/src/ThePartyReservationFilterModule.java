@@ -85,17 +85,12 @@ public class ThePartyReservationFilterModule {
 
     private static void printListPeople(List<String> listPeople) {
 
-        if (listPeople.size() == 0 || listPeople.get(0).equals("")) {
 
-            System.out.println("Nobody is going to the party!");
-        } else {
-
-           // Collections.sort(listPeople);
 
             String s = String.join(" ", listPeople);
 
             System.out.println(s);
-        }
+
     }
 }
 
