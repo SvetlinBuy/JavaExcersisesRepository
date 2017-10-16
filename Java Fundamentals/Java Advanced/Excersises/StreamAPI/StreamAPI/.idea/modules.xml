@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_StudentsbyGroup/01_StudentsbyGroup.iml" filepath="$PROJECT_DIR$/../01_StudentsbyGroup/01_StudentsbyGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_StudentsbyFirstandLastName/02_StudentsbyFirstandLastName.iml" filepath="$PROJECT_DIR$/../02_StudentsbyFirstandLastName/02_StudentsbyFirstandLastName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_StudentsbyAge/03_StudentsbyAge.iml" filepath="$PROJECT_DIR$/../03_StudentsbyAge/03_StudentsbyAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_SortStudents/04_SortStudents.iml" filepath="$PROJECT_DIR$/../04_SortStudents/04_SortStudents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_FilterStudentsbyEmailDomain/05_FilterStudentsbyEmailDomain.iml" filepath="$PROJECT_DIR$/../05_FilterStudentsbyEmailDomain/05_FilterStudentsbyEmailDomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_FilterStudentsbyPhone/06_FilterStudentsbyPhone.iml" filepath="$PROJECT_DIR$/../06_FilterStudentsbyPhone/06_FilterStudentsbyPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_ExcellentStudents/07_ExcellentStudents.iml" filepath="$PROJECT_DIR$/../07_ExcellentStudents/07_ExcellentStudents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_WeakStudents/08_WeakStudents.iml" filepath="$PROJECT_DIR$/../08_WeakStudents/08_WeakStudents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_StudentsbyEnrollmentYear/09_StudentsbyEnrollmentYear.iml" filepath="$PROJECT_DIR$/../09_StudentsbyEnrollmentYear/09_StudentsbyEnrollmentYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_LittleJohn/10_LittleJohn.iml" filepath="$PROJECT_DIR$/../10_LittleJohn/10_LittleJohn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11_OfficeStuff/11_OfficeStuff.iml" filepath="$PROJECT_DIR$/../11_OfficeStuff/11_OfficeStuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI.iml" />
+    </modules>
+  </component>
+</project>
