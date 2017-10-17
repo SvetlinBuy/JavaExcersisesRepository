@@ -18,11 +18,9 @@
       <file leaf-file-name="LittleJohn.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../10_LittleJohn/src/LittleJohn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -245,7 +243,7 @@
       <updated>1508163655432</updated>
       <workItem from="1508163656705" duration="3146000" />
       <workItem from="1508203692070" duration="3572000" />
-      <workItem from="1508213118480" duration="42000" />
+      <workItem from="1508213118480" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="adding Stream API exams">
       <created>1508166791480</created>
@@ -261,11 +259,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508206931068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exam 10 100/100">
+      <created>1508213174828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213174828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6760000" />
+    <option name="totallyTimeSpent" value="6793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -309,14 +314,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding Stream API exams" />
     <MESSAGE value="adding 10 87/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding 10 87/100" />
+    <MESSAGE value="exam 10 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam 10 100/100" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../10_LittleJohn/src/LittleJohn.java</url>
-          <line>12</line>
+          <line>11</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -329,9 +335,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -339,9 +343,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -425,11 +427,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../10_LittleJohn/src/LittleJohn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
