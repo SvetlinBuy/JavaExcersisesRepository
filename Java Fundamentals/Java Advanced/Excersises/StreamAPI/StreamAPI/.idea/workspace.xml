@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f103336b-9959-4fc8-9e70-b5cd8401ab51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../10_LittleJohn/src/LittleJohn.java" afterPath="$PROJECT_DIR$/../10_LittleJohn/src/LittleJohn.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -243,7 +242,7 @@
       <updated>1508163655432</updated>
       <workItem from="1508163656705" duration="3146000" />
       <workItem from="1508203692070" duration="3572000" />
-      <workItem from="1508213118480" duration="75000" />
+      <workItem from="1508213118480" duration="220000" />
     </task>
     <task id="LOCAL-00001" summary="adding Stream API exams">
       <created>1508166791480</created>
@@ -266,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508213174828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removing StringJoiner as not used anyway.">
+      <created>1508213212476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213212476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6793000" />
+    <option name="totallyTimeSpent" value="6938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -315,7 +321,8 @@
     <MESSAGE value="adding Stream API exams" />
     <MESSAGE value="adding 10 87/100" />
     <MESSAGE value="exam 10 100/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam 10 100/100" />
+    <MESSAGE value="removing StringJoiner as not used anyway." />
+    <option name="LAST_COMMIT_MESSAGE" value="removing StringJoiner as not used anyway." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
