@@ -18,7 +18,7 @@ public class LittleJohn {
 
                 count[2]++;
 
-                row = row.replaceFirst(arrows[2], "");
+                row = row.replaceFirst(arrows[2], "X");
             }
 
 
@@ -26,13 +26,13 @@ public class LittleJohn {
 
                 count[1]++;
 
-                row = row.replaceFirst(arrows[1], "");
+                row = row.replaceFirst(arrows[1], "X");
             }
 
            while(row.contains(arrows[0])) {
 
                 count[0]++;
-               row = row.replaceFirst(arrows[0], "");
+               row = row.replaceFirst(arrows[0], "X");
             }
         }
 
