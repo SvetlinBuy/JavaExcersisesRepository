@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarSalesman/CarSalesman.iml" filepath="$PROJECT_DIR$/CarSalesman/CarSalesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompanyRoster/CompanyRoster.iml" filepath="$PROJECT_DIR$/CompanyRoster/CompanyRoster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatingConstructors/CreatingConstructors.iml" filepath="$PROJECT_DIR$/CreatingConstructors/CreatingConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefineClassPerson/DefineClassPerson.iml" filepath="$PROJECT_DIR$/DefineClassPerson/DefineClassPerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses.iml" filepath="$PROJECT_DIR$/DefiningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpinionPoll/OpinionPoll.iml" filepath="$PROJECT_DIR$/OpinionPoll/OpinionPoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RawData/RawData.iml" filepath="$PROJECT_DIR$/RawData/RawData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedRacing/SpeedRacing.iml" filepath="$PROJECT_DIR$/SpeedRacing/SpeedRacing.iml" />
+    </modules>
+  </component>
+</project>
