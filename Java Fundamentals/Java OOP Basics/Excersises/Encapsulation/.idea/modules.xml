@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalFarm/AnimalFarm.iml" filepath="$PROJECT_DIR$/AnimalFarm/AnimalFarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassBox/ClassBox.iml" filepath="$PROJECT_DIR$/ClassBox/ClassBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassBoxDataValidation/ClassBoxDataValidation.iml" filepath="$PROJECT_DIR$/ClassBoxDataValidation/ClassBoxDataValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation.iml" />
+    </modules>
+  </component>
+</project>
