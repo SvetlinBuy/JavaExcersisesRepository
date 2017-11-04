@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/ClassBox/ClassBox.iml" filepath="$PROJECT_DIR$/ClassBox/ClassBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassBoxDataValidation/ClassBoxDataValidation.iml" filepath="$PROJECT_DIR$/ClassBoxDataValidation/ClassBoxDataValidation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FootballTeamGenerator/FootballTeamGenerator.iml" filepath="$PROJECT_DIR$/FootballTeamGenerator/FootballTeamGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PizzaCalories/PizzaCalories.iml" filepath="$PROJECT_DIR$/PizzaCalories/PizzaCalories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopingSpree/ShopingSpree.iml" filepath="$PROJECT_DIR$/ShopingSpree/ShopingSpree.iml" />
     </modules>
   </component>
 </project>
