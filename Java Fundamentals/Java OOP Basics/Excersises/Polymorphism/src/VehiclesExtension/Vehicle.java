@@ -45,7 +45,7 @@ public abstract class Vehicle {
         this.DEFAULT_CONSUPTION_SUMMER = DEFAULT_CONSUPTION_SUMMER;
     }
 
-    public double getTankCapacity() {
+    private double getTankCapacity() {
         return tankCapacity;
     }
 
