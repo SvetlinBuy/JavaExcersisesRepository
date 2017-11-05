@@ -100,18 +100,18 @@ public abstract class Vehicle {
 
     public void driveEmpty(double distance){
 
-        this.setConsumption(getConsumption() - this.getDEFAULT_CONSUPTION_SUMMER());
+        double localConsuption = this.getConsumption() - this.getDEFAULT_CONSUPTION_SUMMER();
 
-        if (distance * this.getConsumption() > this.getQuantity()) {
+
+        if (distance * localConsuption > this.getQuantity()) {
 
             throw new IllegalArgumentException(this.getClass().getSimpleName() + " needs refueling");
         }
 
 
-        this.setQuantity(getQuantity() - distance * this.getConsumption());
+        this.setQuantity(getQuantity() - distance * localConsuption);
 
         DecimalFormat df = new DecimalFormat("#.## km");
-        System.out.println(this.getClass().getSimpleName() + " travelled " + df.format(distance));
 
     };
 
