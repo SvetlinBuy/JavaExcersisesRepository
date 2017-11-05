@@ -34,23 +34,19 @@ public class Song {
 
     private void setSongLength(String songLength) throws InvalidSongLengthException {
 
-        int minutes = Integer.parseInt(songLength.split(":")[0]);
-        if(songLength.length() == 2){
-
-            int seconds = Integer.parseInt(songLength.split(":")[1]);
-
-            if ((minutes < 0 || minutes > 14) && (seconds < 0 || seconds > 59)) {
-                throw new InvalidSongLengthException("Invalid song length.");
-            }
+        String[] lengthTokens = songLength.split(":");
+        int minutes;
+        int seconds;
+        try {
+            minutes = Integer.valueOf(lengthTokens[0]);
+            seconds = Integer.valueOf(lengthTokens[1]);
+        } catch (Exception e) {
+            throw new InvalidSongLengthException("Invalid song length.");
         }
 
-
+        this.setSongMinutes(minutes);
+        this.setSongSeconds(seconds);
         this.songLength = songLength;
-        this.setSongMinutes(Integer.parseInt(songLength.split(":")[0]));
-
-        if(songLength.split(":").length== 2 ){
-            this.setSongSeconds(Integer.parseInt(songLength.split(":")[1]));
-        }
 
     }
 
