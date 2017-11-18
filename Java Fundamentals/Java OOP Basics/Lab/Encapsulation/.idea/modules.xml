@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstAndReverseTeam/FirstAndReverseTeam.iml" filepath="$PROJECT_DIR$/FirstAndReverseTeam/FirstAndReverseTeam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryIncrease/SalaryIncrease.iml" filepath="$PROJECT_DIR$/SalaryIncrease/SalaryIncrease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortPersonByNameandAge/SortPersonByNameandAge.iml" filepath="$PROJECT_DIR$/SortPersonByNameandAge/SortPersonByNameandAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidationData/ValidationData.iml" filepath="$PROJECT_DIR$/ValidationData/ValidationData.iml" />
+    </modules>
+  </component>
+</project>
