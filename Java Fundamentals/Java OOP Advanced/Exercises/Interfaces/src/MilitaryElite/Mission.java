@@ -13,7 +13,7 @@ public class Mission implements IMission {
 
     @Override
     public void CompleteMission() {
-        this.state="Completed";
+        this.setState("Finished");
     }
 
     private void setCodeName(String codeName) {
@@ -26,9 +26,7 @@ public class Mission implements IMission {
 
     private void setState(String state) {
 
-        if(state.equals("inProgress") || state.equals("Finished")){
             this.state = state;
-        }
 
     }
 

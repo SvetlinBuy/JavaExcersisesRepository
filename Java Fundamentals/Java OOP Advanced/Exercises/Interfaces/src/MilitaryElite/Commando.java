@@ -18,7 +18,7 @@ public class Commando extends SpecialisedSoldier implements ICommando{
         this.missionList = missionList;
     }
 
-    Commando(String id, String firstName, String lastName, Double salary, String corps, List<Mission> missionList) {
+    public Commando(String id, String firstName, String lastName, Double salary, String corps, List<Mission> missionList) {
         super(id, firstName, lastName, salary, corps);
 
         this.setMissionList(missionList);

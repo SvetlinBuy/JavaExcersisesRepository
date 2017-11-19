@@ -6,7 +6,7 @@ public class Private extends Soldier implements IPrivate {
 
     private Double salary;
 
-    Private(String id, String firstName, String lastName, Double salary) {
+    public Private(String id, String firstName, String lastName, Double salary) {
         super(id, firstName, lastName);
         this.setSalary(salary);
     }

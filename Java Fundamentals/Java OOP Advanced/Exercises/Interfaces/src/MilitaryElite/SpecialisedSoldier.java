@@ -18,7 +18,7 @@ public abstract class SpecialisedSoldier extends Private implements ISpecialised
 
     }
 
-    SpecialisedSoldier(String id, String firstName, String lastName, Double salary, String corps) {
+    protected SpecialisedSoldier(String id, String firstName, String lastName, Double salary, String corps) {
         super(id, firstName, lastName, salary);
         this.setCorps(corps);
     }

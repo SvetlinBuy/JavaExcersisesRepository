@@ -1,9 +1,9 @@
 package MilitaryElite;
 
 import MilitaryElite.Intefaces.ISoldier;
-import javafx.collections.transformation.SortedList;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Main {
 
@@ -27,14 +27,37 @@ public class Main {
             String firstName = com[2];
             String lastName = com[3];
             String salary = com[4];
-
+            
 
 
             switch (type){
 
                 case "Private": createPrivate(id,firstName,lastName,salary, garnison);break;
-                case "Commando": createCommando(id,firstName,lastName,salary, com); break;
-                case "Engineer": createEngineer(id,firstName,lastName,salary, com); break;
+                case "Commando":
+
+                    if(com.length >= 6 && com[0].equals("Commando")){
+
+                        if(com[5].equals("Airforces") || com[5].equals("Marines")){
+
+                            createCommando(id,firstName,lastName,salary, com);
+                        }
+                    }
+
+                    break;
+
+
+                case "Engineer":
+
+                    if(com.length >= 6 && com[0].equals("Engineer")){
+
+                        if(com[5].equals("Airforces") || com[5].equals("Marines")){
+
+                            createEngineer(id,firstName,lastName,salary, com);
+
+                        }
+                    }
+
+                    break;
                 case "LeutenantGeneral": createLeutenantGeneral(id,firstName,lastName,salary, com, garnison);break;
                 case "Spy": createSpy(id,firstName,lastName,com[4]);break;
 
@@ -57,9 +80,6 @@ public class Main {
 
         List<Private> GeneralList = new LinkedList<>();
 
-        Comparator cmp = Collections.reverseOrder();
-
-        Collections.sort(GeneralList, cmp);
 
         for (int i = 5; i < com.length; i++) {
 
@@ -73,8 +93,9 @@ public class Main {
 
         }
 
+        List<Private> sortedPrivates = GeneralList.stream().sorted(((o1, o2) -> o2.getId().compareTo(o1.getId()))).collect(Collectors.toList());
 
-        LeutenantGeneral leutenantGeneral = new LeutenantGeneral(id, firstName, lastName, Double.parseDouble(salary), GeneralList);
+        LeutenantGeneral leutenantGeneral = new LeutenantGeneral(id, firstName, lastName, Double.parseDouble(salary), sortedPrivates);
 
         System.out.println(leutenantGeneral.toString());
 
@@ -102,6 +123,7 @@ public class Main {
     private static void createCommando(String id, String firstName, String lastName, String salary, String[] com) {
 
         String corps = com[5];
+
 
         List<Mission> missionsList = new ArrayList<>();
 

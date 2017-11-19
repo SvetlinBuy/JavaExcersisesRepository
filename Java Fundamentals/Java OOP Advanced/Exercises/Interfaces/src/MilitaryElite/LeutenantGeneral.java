@@ -17,7 +17,7 @@ public class LeutenantGeneral extends Private implements ILeutenantGeneral {
         this.privates = privates;
     }
 
-    LeutenantGeneral(String id, String firstName, String lastName, Double salary, List<Private> privates) {
+    public LeutenantGeneral(String id, String firstName, String lastName, Double salary, List<Private> privates) {
         super(id, firstName, lastName, salary);
         this.setPrivates(privates);
     }

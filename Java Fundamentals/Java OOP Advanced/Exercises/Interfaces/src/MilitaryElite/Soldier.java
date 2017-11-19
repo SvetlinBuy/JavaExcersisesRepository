@@ -9,7 +9,7 @@ public abstract class Soldier implements ISoldier {
     private String firstName;
     private String lastName;
 
-    Soldier(String id, String firstName, String lastName) {
+    public Soldier(String id, String firstName, String lastName) {
         this.setId(id);
         this.setFirstName(firstName);
         this.setLastName(lastName);

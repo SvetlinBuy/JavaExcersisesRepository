@@ -19,7 +19,7 @@ public class Engineer extends SpecialisedSoldier implements IEngineer {
         this.repairs = repairs;
     }
 
-    Engineer(String id, String firstName, String lastName, Double salary, String corps, List<Repair> repairs) {
+    public Engineer(String id, String firstName, String lastName, Double salary, String corps, List<Repair> repairs) {
         super(id, firstName, lastName, salary, corps);
         this.setRepairs(repairs);
     }
